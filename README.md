@@ -28,6 +28,6 @@ During my internship at Main Flow Services and Technologies Pvt. Ltd., I had t
 -Gained practical experience implementing logistic regression for binary classification.
 -Interpreted performance metrics and confusion matrix to enhance model interpretability.
 
-hashtag#DataScience hashtag#MachineLearning hashtag#LogisticRegression hashtag#EDA hashtag#ConfusionMatrix 
-hashtag#Internship hashtag#TechInternship hashtag#StudentSuccess hashtag#DataAnalytics 
-hashtag#MainFlowServices hashtag#NoidaTech hashtag#ITConsulting
+#DataScience #MachineLearning #LogisticRegression #EDA #ConfusionMatrix 
+#Internship hashtag#TechInternship #StudentSuccess #DataAnalytics 
+#MainFlowServices #NoidaTech #ITConsulting
